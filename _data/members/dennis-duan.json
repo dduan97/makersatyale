@@ -1,0 +1,26 @@
+{
+    "name": "Dennis Duan",
+    "year": 2019,
+    "college": "Ezra Stiles",
+    "major": "Computer Science[, Economics and Math]",
+    "picture": "https://scontent-lga3-1.xx.fbcdn.net/hphotos-xpt1/v/t1.0-9/11393082_844878625550083_301242947436120252_n.jpg?oh=f83826d827f23ed42e0a204e075e93e6&oe=57B288E5",
+    "skills": [
+        "Python", "C", "JavaScript", "HTML/CSS"
+    ],
+    "experience": [
+        {
+            "title": "Member of YGM's ECD Team",
+            "time": "2016",
+            "detail": "",
+            "tags": ["Node"]
+        },
+    ],
+    "extracurriculars": [],
+    "links": {
+        "github": "http://github.com/dduan97",
+        "facebook": "http://facebook.com/dennis.duan.3"
+    },
+    "available": true,
+    "bio": "Aspiring computer science major, possibly with some subset of economics and math as well. Learning any new programming skills I can in the hopes to find out what truly interests me. Enjoy playing tennis, hiking, playing saxophone, and dabbling in ultimate frisbee.",
+    "smallBio": "Programmer, tennis player, hiker, and vim enthusiast. Enjoys testing the limits of my editing permissions on the Zoo."
+}
